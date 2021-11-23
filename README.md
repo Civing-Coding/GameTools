@@ -21,3 +21,5 @@
 - 图片调整大小   (2的倍数、4的倍数)  
 
 - 图片格式       (转换为png) 
+
+- 图片去黑边     [honmono]('https://forum.cocos.org/t/topic/124355')
