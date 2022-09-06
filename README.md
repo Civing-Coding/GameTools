@@ -23,3 +23,5 @@
 - 图片格式       (转换为png) 
 
 - 图片去黑边     [honmono]('https://forum.cocos.org/t/topic/124355')
+
+- ASTC纹理压缩   [astc-encoder]('https://github.com/ARM-software/astc-encoder')   
