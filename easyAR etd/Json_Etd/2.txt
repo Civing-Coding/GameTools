@@ -1,0 +1,1 @@
+{"images":[{"image":"AR/2/2_1.etd","name":"2_1","scale":0.1},{"image":"AR/2/2_2.etd","name":"2_2","scale":0.1}]}

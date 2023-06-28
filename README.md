@@ -1,4 +1,4 @@
-# GameTools
+wadawd dwadawd
 
 >游戏开发中制作和收藏的几个小工具
 
@@ -24,4 +24,18 @@
 
 - 图片去黑边     [honmono]('https://forum.cocos.org/t/topic/124355')
 
-- ASTC纹理压缩   [astc-encoder]('https://github.com/ARM-software/astc-encoder')   
+- ASTC纹理压缩   [astc-encoder]('https://github.com/ARM-software/astc-encoder')  
+
+- Android Killer (安卓逆向)
+
+- easyAR etd    (easyAr识别图生成etd)
+
+- FBX转GLTF
+
+- NPOT          (图片改为4的倍数或幂次)
+
+- resize        (图片改为4的倍数或幂次)
+
+- 视频压缩转格式
+
+- 字体生成图片并生成数据用于生成图片文字 
