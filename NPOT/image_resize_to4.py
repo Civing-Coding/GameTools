@@ -91,7 +91,7 @@ def ResizeTextureTO4(filePath, outpath):
 
     #outImage = outImage.resize(newsize, Image.BILINEAR)
 
-    outImage = InImage.resize(newsize, resample=Image.ANTIALIAS)
+    outImage = InImage.resize(newsize, resample=Image.LANCZOS)
 
     outImage.save(u""+outpath)
 

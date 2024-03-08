@@ -43,7 +43,7 @@ def po2(im, threshold=0.25):
         if (height - new_y) > int(new_y * threshold):
             new_y = sizes[sizes.index(new_y) + 1]
 
-    return im.resize((new_x, new_y), resample=Image.ANTIALIAS)
+    return im.resize((new_x, new_y), resample=Image.LANCZOS)
 
     # new_dim = max(new_x, new_y)  # new dimension will be largest of x or y po2
 
